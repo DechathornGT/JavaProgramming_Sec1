@@ -1,0 +1,5 @@
+Studen_id: 2313110898
+Studen Name: Dechathorn Mungmuang
+Major: IT
+Level: 1
+Faculty: Information Technology
