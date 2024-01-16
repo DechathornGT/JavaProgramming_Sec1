@@ -1,4 +1,4 @@
 Id:2313110898
 Name-Surname:Dechathorn Mungmuang
-Date: JAN-9-2024
-Topic: Class and Object
+Date: JAN-16-2024
+Topic: Encapsulation Concept
